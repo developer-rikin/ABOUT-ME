@@ -2,4 +2,3 @@
 - 👀 I’m a student. and intrested in doing open source work
 - 🌱 I’m currently learning C++ and DSA 
 - 📫 twitter- @rikin_twt
--
